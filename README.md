@@ -1,1 +1,1 @@
-# twaz400appservice
+# Sample ASP.NET app for GitHub Actions
