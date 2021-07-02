@@ -1,1 +1,1 @@
-# Sample ASP.NET app for GitHub Actions
+# Sample ASP.NET app for GitHub Actions v2
